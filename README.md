@@ -2,6 +2,7 @@
 
 7.2
   https://github.com/newming/digitalcity
+  
 7.3
 
   mkdir myproject
@@ -12,6 +13,7 @@
   git commit -m"commit msg"
   git remote add origin https://github.com/happypeter/myproject.git
   git push -u origin master
+  
 7.16
 
   1.webpack-bundle
@@ -26,6 +28,7 @@
   7.无webpack :由script标签导入
     有webpack :
   8.编译:npm run build
+  
 7.17
 
   静态页面：
