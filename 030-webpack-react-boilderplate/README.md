@@ -43,3 +43,6 @@ console.log('')
 12.如何设置自动保存
 packages--- setting ---save
 13.github免费存图片
+14.如何发ajax请求
+    constu
+    componentDidMount
