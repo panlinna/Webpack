@@ -2,6 +2,7 @@ import React from 'react';
 import getMuiTheme from 'material-ui/styles/getMuiTheme';
 import marked from 'marked';
 import hljs from 'highlight.js';
+import MarkSearch from 'MarkSearch';
 
 class App extends React.Component {
   getChildContext() {
